@@ -17,8 +17,17 @@
         "location": {
             "value": "Canada East"
         },
+        "sku": {
+            "value": "PremiumV2"
+        },
+        "workerSize": {
+            "value": "3"
+        },
         "serverFarmResourceGroup": {
             "value": "table2kbwebapprg2"
+        },
+        "skuCode": {
+            "value": "P1v2"
         },
         "subscriptionId": {
             "value": "0ab9ad2e-f316-4da5-b243-e7f65da24755"
